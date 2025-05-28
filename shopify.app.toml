@@ -3,7 +3,7 @@
 client_id = "45f507e1809ed0b0a96b6c8eba1e2950"
 name = "redemption-solutions"
 handle = "redemption-solutions"
-application_url = "https://advertiser-chicks-identifies-takes.trycloudflare.com"
+application_url = "https://columns-rocket-semiconductor-hollow.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://advertiser-chicks-identifies-takes.trycloudflare.com/auth/callback",
-  "https://advertiser-chicks-identifies-takes.trycloudflare.com/auth/shopify/callback",
-  "https://advertiser-chicks-identifies-takes.trycloudflare.com/api/auth/callback"
+  "https://columns-rocket-semiconductor-hollow.trycloudflare.com/auth/callback",
+  "https://columns-rocket-semiconductor-hollow.trycloudflare.com/auth/shopify/callback",
+  "https://columns-rocket-semiconductor-hollow.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
